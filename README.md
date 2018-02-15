@@ -7,7 +7,7 @@ To create a new project based on this template using [degit](https://github.com/
 ```bash
 npm install -g degit # you only need to do this once
 
-degit sveltejs/template svelte-app
+degit cooljith91112/svelte-app svelte-app
 cd svelte-app
 ```
 
