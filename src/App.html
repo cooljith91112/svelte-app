@@ -1,0 +1,16 @@
+<label>Hello {{name}}!</label>
+Template : <Test1></Test1>
+Template : <Test2></Test2>
+<style>
+	h1 {
+		color: purple;
+	}
+</style>
+
+<script>
+	import Test1 from './components/Test1/Test1.html';
+	import Test2 from './components/Test2/Test2.html';
+	export default {
+		components :{Test1, Test2}
+	}
+</script>
