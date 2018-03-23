@@ -1,5 +1,7 @@
 ## svelte app (Modified)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cooljith91112/svelte-app.svg)](https://greenkeeper.io/)
+
 This is a project template for [Svelte](https://svelte.technology) apps. Original url at https://github.com/sveltejs/template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
